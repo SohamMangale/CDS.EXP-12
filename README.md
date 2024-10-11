@@ -270,7 +270,8 @@ int main() {
 
 
 4.
-Screenshot 2024-09-04 102102
+![image](https://github.com/user-attachments/assets/80f4da14-df48-4bc4-a244-0188cfc68c3d)
+
 
 5.
 Screenshot 2024-09-04 102120
@@ -280,4 +281,5 @@ Screenshot 2024-09-04 102133
 
 ## Conclusion :
 We learnt about constructors and deconstructors in C++.
+
 We learnt the use case of each of them in C++.

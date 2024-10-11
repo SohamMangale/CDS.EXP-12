@@ -220,7 +220,7 @@ int main() {
     student s(084, "soham", 999999);
     s.display();
 
-    student subham(s); // copy constructor called
+    student soham(s); // copy constructor called
     subham.display();
 
     return 0;

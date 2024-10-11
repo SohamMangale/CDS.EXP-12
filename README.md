@@ -278,7 +278,8 @@ int main() {
 
 
 6.
-Screenshot 2024-09-04 102133
+![image](https://github.com/user-attachments/assets/acf52b3a-0de1-4fec-a093-17deb4a5e0eb)
+
 
 ## Conclusion :
 We learnt about constructors and deconstructors in C++.

@@ -217,7 +217,7 @@ void student::display() {
 }
 
 int main() {
-    student s(084, "soham", 150000);
+    student s(084, "soham", 999999);
     s.display();
 
     student subham(s); // copy constructor called

@@ -80,7 +80,7 @@ int main(){
 //soham
 //23070123084
 //entc-B1
-//experiment-12
+//experiment-12A
 #include <iostream>
 using namespace std;
 //defining the constructor outside the class
@@ -120,6 +120,7 @@ int main()
 //soham
 //23070123084
 //entc-B1
+//experiment 12B
 // Default Constructors
 #include<iostream>
 #include<string>
@@ -158,7 +159,7 @@ int main() {
 //soham
 //23070123084
 //entc-B1
-//experiment-12
+//experiment-12C
 //parameterized constructor
 #include<iostream>
 using namespace std;
@@ -184,7 +185,7 @@ int main() {
 //soham
 //23070123084
 //entc-B1
-//experiment-12
+//experiment-12D
 #include<iostream>
 #include<string.h>
 using namespace std;
@@ -230,7 +231,7 @@ int main() {
 //soham
 //23070123084
 //entc-B1
-//experiment-12
+//experiment-12E
 #include<iostream>
 using namespace std;
 int count = 0;
@@ -257,7 +258,8 @@ int main() {
 ~~~
 ## Outputs :
 1.
-Screenshot 2024-09-04 101935
+![image](https://github.com/user-attachments/assets/1489aab1-62e7-4034-a7fc-4f3108f312a1)
+
 
 2.
 Screenshot 2024-09-04 102002

@@ -221,7 +221,7 @@ int main() {
     s.display();
 
     student soham(s); // copy constructor called
-    subham.display();
+    soham.display();
 
     return 0;
 }

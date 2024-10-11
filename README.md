@@ -266,7 +266,8 @@ int main() {
 
 
 3.
-Screenshot 2024-09-04 102034
+![image](https://github.com/user-attachments/assets/3a5d5e1a-0f08-4559-be49-5dc7854896ed)
+
 
 4.
 Screenshot 2024-09-04 102102
